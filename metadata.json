@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cafe Financial \u0026 Profit Database",
+  "description": "Date-by-date cafe sales and daily expenses database with automated profit calculations, analytics, and instant Excel (.xlsx) sheet export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
